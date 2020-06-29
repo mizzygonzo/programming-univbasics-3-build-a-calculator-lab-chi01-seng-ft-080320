@@ -19,6 +19,5 @@ return num1%num2
 end
 
 def square_root(num)
-return Math.sqrt(num)
-math = class
+return 
 end
